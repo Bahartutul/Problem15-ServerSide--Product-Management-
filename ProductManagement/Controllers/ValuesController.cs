@@ -14,7 +14,7 @@ namespace ProductManagement.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "API WORK PERFECTLY...RUN YOU ANGULAR PROJECT TO INTRIGATE WITH API" };
         }
 
         // GET api/values/5
